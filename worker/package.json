@@ -1,0 +1,12 @@
+{
+    "type": "module",
+    "dependencies": {
+        "ioredis": "^5.9.2",
+        "nodemon": "^3.1.11",
+        "redis": "^5.10.0"
+    },
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon"
+    }
+}
